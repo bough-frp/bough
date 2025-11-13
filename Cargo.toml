@@ -1,0 +1,8 @@
+[package]
+name = "bough"
+description = ""
+authors = ["Zefira Shannon"]
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
